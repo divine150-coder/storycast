@@ -53,4 +53,4 @@ sass sass/main.scss css/main.css --style=compressed
 ## Notes
 - Photos and the library video were taken during visits to Isunzu Yacu Village and Bigogwe.
 - The story audio is the author's own recording of the story. The transcript in `assets/transcripts/` should match what is said.
-- Design files: Figma sitemap, wireframes and mockups: **[ADD FIGMA LINK]**
+- Design files: Figma sitemap, wireframes and mockups: **https://www.figma.com/design/jxJdBJ9OUts7twpTzecKPd/StoryCast-%E2%80%94-IA---Mockups?node-id=0-1&t=8MjdGsho2GTTeErf-1**
